@@ -1,4 +1,4 @@
-# first Django project
+# first Django-restapi project
 
 ## 프로젝트 계획 이유
 
